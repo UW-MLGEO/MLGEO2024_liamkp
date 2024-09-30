@@ -12,7 +12,7 @@ Liam's repository for ESS 469 (Fall 2024)
 To run the notebook included here:
 1. Navigate to your local clone of this repository in Terminal
 2. Activate the environment (see above)
-3. Launch JupyterLab with "jupyterlab"
+3. Launch JupyterLab with "jupyter lab"
 
 ## Favorite Earth Science Topics
 
